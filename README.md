@@ -1,9 +1,5 @@
 # Traffic Light Detection with Tensorflow Object Detection API
 
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-
-This repository was used to setup an environment to train/evaluate a pre-trained model to identify/classify traffic lights in pictures using tensorflow. It was part of my [final project](https://github.com/mkoehnke/CarND-Capstone) for the [Udacity Self-Driving Car Engineer Nano Degree program](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
-
 ## Setup
 
 #### Dependencies
@@ -82,5 +78,5 @@ python object_detection/export_inference_graph.py --pipeline_config_path=config/
 
 
 ## Attributions
-
+- https://github.com/mkoehnke/CarND-Capstone-TrafficLightDetection
 - [https://becominghuman.ai/traffic-light-detection-tensorflow-api-c75fdbadac62](https://becominghuman.ai/traffic-light-detection-tensorflow-api-c75fdbadac62)
